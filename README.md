@@ -9,8 +9,7 @@ Beyond frontend development, I aspire to become a software engineer, combining m
 Currently, I am focusing on strengthening my JavaScript skills and deepening my understanding of frontend architecture, design principles, and best practices.
 
 Skills: JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Music, Sports, Movies 
 - 📫 How to reach me: rahmziad.amin@gmail.com 
