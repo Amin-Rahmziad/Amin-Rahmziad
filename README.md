@@ -8,7 +8,7 @@ Beyond frontend development, I aspire to become a software engineer, combining m
 
 Currently, I am focusing on strengthening my JavaScript skills and deepening my understanding of frontend architecture, design principles, and best practices.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
